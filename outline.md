@@ -1,0 +1,53 @@
+- Structure of a web project folder index.html, style.css
+    - index.html
+    - style.css
+    - script.js
+- Structure of and HTML document
+    - Doctype declaration
+    - Document Tree
+    - Head Element
+    - Body Element
+    - Content tags
+    - Opening and Closing tags
+    - Attributes
+    - Comments
+- Commonly used HTML elements
+    - Text Elements
+        - Headers
+        - Paragraph
+        - Special Text
+        - Inline Elements
+        - Character Entities
+    - Core Attributes
+        - id
+        - class
+        - title
+        - lang
+    - Semantic Elements
+        - main
+        - section
+        - Article
+        - Nav
+        - Aside
+        - Footer
+    - Non-semantic Structure Elements
+        - Div
+        - Span
+    - Anchor tags
+    - Lists
+        - Unordered
+        - Ordered
+    - Images
+- Introduction to CSS Styling
+    - Three Ways to Include Style
+        - External Stylesheet
+        - Style tag in Head Element
+        - Inline
+    - Style rule
+    - Selector
+        - element
+        - id
+        - class
+    - Declaration
+    - Comments
+    
