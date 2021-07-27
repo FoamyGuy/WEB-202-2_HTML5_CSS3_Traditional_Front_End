@@ -1,7 +1,7 @@
 - Helpful Links
     - [Course Page](https://ce.jccc.edu/courseDisplay.cfm?schID=28363)
     - [Book materials](https://www.murach.com/shop/murachs-html5-and-css3-4th-edition-detail)
-
+    - [GH-Pages](https://pages.github.com/) - can be used for publishing static web pages
 - Structure of a web project folder index.html, style.css
     - index.html
     - style.css
