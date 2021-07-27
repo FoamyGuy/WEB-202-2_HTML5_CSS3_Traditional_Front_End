@@ -16,4 +16,5 @@ You are encouraged to go beyond the minimum items mentioned in the exercise use 
 - code an Image Gallery page that includes a grid of images each with a short description. You can use placeholders instead of real images if you'd like
 - Code a basic about page that includes an image and some paragraphs of information about a company you can make up a fake company if you'd like
 - Use CSS to create a page with custom background colors, font colors, and font files. You can find fonts to use from Google Fonts
-- Make a GitHub account if you don't have one. Create a repository and push an example page into it. For extra practice use the gh-pages branch and find the live copy of your page.
+- Make a GitHub account if you don't have one. Create a repository and push an example page into it. 
+- Use Github Pages to create a publicly available web page. You can push one of the exercise pages, or create a new one. For extra practice make another one using one of the avialble built-in themes.
