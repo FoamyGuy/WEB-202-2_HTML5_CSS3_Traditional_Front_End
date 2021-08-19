@@ -7,12 +7,34 @@
   <link href="css/style.css" rel="stylesheet">
 </head>
 <style>
-    img {
-        width: 80px;
+    figure {
+        width: 860px;
+    }
+
+    figcaption {
+        text-align: center;
+        font-size: 2.3em;
+        margin-bottom: 8px;
     }
 
     table {
+        border: 2px solid black;
+
+        /* allow <tr> elements to have border */
         border-collapse: collapse;
+    }
+
+    thead {
+        font-size: 2em;
+    }
+
+    tr {
+        border-bottom: 2px solid black;
+    }
+
+    img {
+        /* size of the checkmarks */
+        width: 80px;
     }
 
     td {
@@ -26,30 +48,6 @@
         /* override text align for feature column cells */
         text-align: start;
         padding-left: 8px;
-    }
-
-    tr {
-        border-bottom: 2px solid black;
-    }
-
-
-    thead {
-        font-size: 2em;
-    }
-
-    table {
-        border: 2px solid black;
-    }
-
-    figure {
-        width: 860px;
-
-    }
-
-    figcaption {
-        text-align: center;
-        font-size: 2.3em;
-        margin-bottom: 8px;
     }
 
 
@@ -68,7 +66,6 @@
     </tr>
     </thead>
     <tbody>
-
     <tr>
       <td class="feature">100s of Built-in Filters</td>
       <td><img src="Checkmark.svg"></td>
@@ -111,12 +108,8 @@
       <td></td>
       <td><img src="Checkmark.svg"></td>
     </tr>
-
     </tbody>
-
-
     </th>
-
   </table>
 </figure>
 
